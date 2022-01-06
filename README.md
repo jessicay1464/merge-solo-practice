@@ -1,5 +1,5 @@
 Today
 is
 a
-good
+great
 day
