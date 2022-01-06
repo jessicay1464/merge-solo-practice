@@ -1,5 +1,5 @@
-Yesterday
+Today
 is
 a
-great
+good
 day
