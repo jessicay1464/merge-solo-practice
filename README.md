@@ -1,1 +1,5 @@
-# merge-solo-practice
+Today
+is
+a
+good
+day
